@@ -1,7 +1,6 @@
 import datetime
 import json
 import os
-import 
 
 path = 'data1.json'
 
